@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/MediaStream.unity
+    guid: f98a909b0857f854898199a225687946
+  - enabled: 0
+    path: Assets/Scenes/MediaStreamSender.unity
+    guid: 64bb6297d3fa5d44bb6bdefa1e9e3c58
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Menu/Menu.unity
+    guid: f74260b9867fa524a9677fe64004f4f9
+  - enabled: 1
+    path: Assets/Samples/Unity Render Streaming/3.1.0-exp.7/Example/Broadcast/Broadcast.unity
+    guid: f47df8540d2ee994196abbd7365855f2
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 44800458a6eb64848917ea30fafaffb1, type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: c536731e2b0f47246a7057ea683bb669, type: 2}
+    com.unity.renderstreaming.settings: {fileID: 11400000, guid: 0b5258056e2cfec4481ab265a3347125, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1f0266814d25567478d6e6f8d674ccd1, type: 2}
